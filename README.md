@@ -1,16 +1,16 @@
-# fossgisbrasil
+# Revista FOSSGIS Brasil 
 
-Edições da Revista FOSSGIS Brasil
+## Edições da Revista:
 
-Edição 01: Redescobrindo os SIGs com Software Livre
+### Edição 01: Redescobrindo os SIGs com Software Livre
 
-Edição 02: Softwares Livres no Ensino
+### Edição 02: Softwares Livres no Ensino
 
-Edição 03: Softwares Livres no Governo
+### Edição 03: Softwares Livres no Governo
 
-Edição 04: Metadados
+### Edição 04: Metadados
 
-Edição 05: Dados abertos
+### Edição 05: Dados abertos
 
-Edição 06: Desenvolvimento SIG
+### Edição 06: Desenvolvimento SIG
 
